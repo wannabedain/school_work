@@ -1,5 +1,8 @@
 ## 학교 수업 과제 
 - 빅데이터 통계 분석 
+  * 텍스트 분석 (커뮤니티)
+  <img width="1039" alt="image" src="https://user-images.githubusercontent.com/91936267/226153710-1ab3dd3a-fc05-4b7c-ac63-2e994dae7cd8.png">
+
 - 인공지능 통계 분석 
 - 데이터 마이닝
 
